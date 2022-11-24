@@ -1,0 +1,52 @@
+	#div{
+		border-style: dotted;
+		border-color: #18121C;
+		Margin: 15%;
+		Padding: 12px;
+	}
+	#product{
+		font-family: 'Dosis', sans-serif;
+		font-size: 14pt;
+		text-align: left;
+		Margin-left:20px;
+		Margin-right:20px;
+	}
+	#price{
+		margin-top: 25px;
+		margin-bottom: 25px;
+		font-family: 'Oswald', sans-serif;
+		font-size: 100pt;
+		text-align: center;
+	}
+	body{
+		background-color: #729EBC ;
+	}
+	img{
+		height:50%;
+		width: 50%;
+		margin-left: 300px;
+		margin-right: 100px;
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+	}
+	h4{
+		font-family: 'Oswald', sans-serif;
+		font-size: 54pt;
+		text-align: center;
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+	button {
+		border: none;
+		border-radius: 6px;
+		outline: 0;
+		display: inline-block;
+		padding: 12px;
+		color: black;
+		Background color: #84E65D ;
+		text-align: center;
+		cursor: pointer;
+		width: 100%;
+		font-size: 18px;
+	}
